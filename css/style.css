@@ -7,11 +7,5 @@
     height: 400px;
     justify-content: center;
     align-items: center;
-    background:
-}
-
-#servico .row div {
-    height: 200px;
-    background: green;
-    color: white;
+    background-color: grey;
 }
